@@ -1,0 +1,6 @@
+Product: Current
+Export: Complete source package
+Source version: 8
+Source commit: 00ba1876d3315bc2984d5c294e27c45f13f42faf
+Created: 2026-09-24
+Excluded: production data, credentials, Git history, dependencies, generated build output, local databases, runtime state
